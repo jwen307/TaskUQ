@@ -1,0 +1,17 @@
+dival==0.6.1
+fastmri
+freia
+matplotlib
+numpy
+odl
+robustness
+sigpy
+scipy
+scikit-image
+scikit-learn
+tensorboard
+tqdm
+statsmodels
+wandb
+
+
